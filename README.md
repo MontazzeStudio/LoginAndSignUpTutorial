@@ -1,5 +1,7 @@
-LogIn and SignUp View Controllers Tutorial
+[Archive] LogIn and SignUp View Controllers Tutorial
 ==========================================
+
+**Note:** *This repository is not under active development. You can learn more about using the Parse Social components in the [ParseUI-iOS](https://github.com/ParsePlatform/ParseUI-iOS) repository.*
 
 This Xcode project teaches you how to use the `PFLogInViewController` and `PFSignUpViewController` using the Parse framework.
 
